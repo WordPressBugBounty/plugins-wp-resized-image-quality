@@ -1,0 +1,1 @@
+# plugins-wp-resized-image-quality
